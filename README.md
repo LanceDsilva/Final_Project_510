@@ -34,8 +34,8 @@ Follow these steps to run the project:
 1. Open a terminal or command prompt.
 2. Clone the repository from GitHub:
    ```bash
-   git clone <repository-link>
-   cd <repository-name>
+   git clone https://github.com/LanceDsilva/Final_Project_510.git
+   cd Final_Project_510
 
 ### Step 3: Set Up the Environment
 
